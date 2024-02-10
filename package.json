@@ -10,7 +10,7 @@
     "@discordjs/opus": "^0.3.2",
     "ascii-table": "^0.0.9",
     "canvacord": "^5.2.1",
-    "canvas": "^2.6.1",
+    "canvas": "^2.11.2",
     "discord-akairo": "^8.1.0",
     "discord-button-pages": "^1.1.9",
     "discord-buttons": "^4.0.0",
