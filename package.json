@@ -9,7 +9,7 @@
   "dependencies": {
     "@discordjs/opus": "^0.3.2",
     "ascii-table": "^0.0.9",
-    "canvacord": "^5.2.1",
+    "canvacord": "^5.4.10",
     "canvas": "^2.6.1",
     "discord-akairo": "^8.1.0",
     "discord-button-pages": "^1.1.9",
